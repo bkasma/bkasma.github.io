@@ -1,1 +1,1 @@
-https://github.com/bkasma/bkasma.github.io
+https://bkasma.github.io/
